@@ -1,0 +1,31 @@
+html {
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+    text-align: center;
+    font-size: 44px;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+    border-spacing: 0px;
+    font-size: 143px;
+}
+
+td {
+    height: 164px;
+    width: 164px;
+    padding: 0px;
+}
+
+.vertical {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.horizontal {
+    border-top: 2px solid black;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
